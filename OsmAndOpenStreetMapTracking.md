@@ -8,3 +8,20 @@ As I only occasionally map, my setup is very simple. I use [OsmAnd](https://osma
 
 Here are a couple of screenshots to illustrate the use and configuration of the application. NB: I have not paid for the OsmAnd application so I don't see any maps while editing - usually I use the MAPS.ME application for checking whether the trails I'm exploring already exist in OSM:
 
+![App Installation](/images/Screenshot_20200503-151814.png)
+
+![App Startup - I just skip for faster startup](/images/screenshot_20200503-151402.png)
+
+![What my screen looks like when tracking](/images/screenshot_20200503-151439.png)
+
+To start GPX logging you need to activate the **Trip recording** plugin and configure the screen to show the **GPX logging** element:
+
+![Activate plugin](/images/screenshot_20200503-151514.png)
+
+![Configure Screen](/images/screenshot_20200503-152642.png)
+
+![Configure Screen](/images/screenshot_20200503-152704.png)
+
+If you want to ability to upload the GPX tracks directly from the app to your OpenStreetMap account also activate the **OpenStreetMap editing** plugin as shown in the Plugins screenshot above and then adjust the configuration of the plugin to add your **OSM username and password**. You need an OpenStreetMap account for this to work.
+
+![Configure OpenStreetMap editing](/images/screenshot_20200503-151557.png)
