@@ -12,7 +12,9 @@ Here are a couple of screenshots to illustrate the use and configuration of the 
 
 ![App Startup - I just skip for faster startup](/images/screenshot_20200503-151402.png)
 
-![What my screen looks like when tracking](/images/screenshot_20200503-151439.png)
+![What my screen looks like when tracking](/images/Screenshot_20200520-221427.png)
+
+![What my screen looks like when tracking](/images/Screenshot_20200520-214422.png)
 
 To start GPX logging you need to activate the **Trip recording** plugin and configure the screen to show the **GPX logging** element:
 
