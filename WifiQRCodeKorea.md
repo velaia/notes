@@ -1,3 +1,4 @@
+# No WiFi Password should have to be Typed, no Network Selected by Hand! 😄
 
 ![WiFi QRCode Korea Mindmapping / Brainstorming](/images/WifiQRCodeKoreaCoffeeShopBrainstorming.png)
 
