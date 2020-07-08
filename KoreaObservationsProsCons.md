@@ -15,6 +15,7 @@ Here's some Pros and Cons from my time in South Korea. For the first month or so
 * Artwork in front of new buildings
 * Buses
 * Trains, subways usually on time with very little delay. Only one time in Gangnam a bus that was supposed to stop at the bus stop didn’t because crowded with other busses.
+* Water filter stations in most guesthouses and hotels.
 
 ## CONs:
 * barbed-wire in nature (along trails) to keep people on track
