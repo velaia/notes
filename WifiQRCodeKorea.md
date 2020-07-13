@@ -4,3 +4,4 @@
 
 ## Further Ideas
 * get a portable printer and print the qr code with a custom design on the spot (thanks @Ben)
+* print on receipt to automatically scan when at your table
