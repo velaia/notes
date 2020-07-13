@@ -13,11 +13,13 @@ Here's some Pros and Cons from my time in South Korea. For the first month or so
 * Easy use of public transport with tmoney card also protecting privacy. Works everywhere.
 * Great public transport in many areas. Very modern with live updates (not really 100% in jeju)
 * Artwork in front of new buildings
-* Buses
+* Buses, inexpensive and very comfortable "business class" available. Plus buses are usually on time.
 * Trains, subways usually on time with very little delay. Only one time in Gangnam a bus that was supposed to stop at the bus stop didn’t because crowded with other busses.
 * Water filter stations in most guesthouses and hotels.
+* Koreans can be very fast in accomplishing things in business.
 
 ## CONs:
+* Waste of water in urinals. Haven't seen use of waterless urinals at all.
 * barbed-wire in nature (along trails) to keep people on track
 * many government systems do not support open standards, open source etc. You often have to deal with proprietary operating systems to access bank systems, government services etc.
 * Excessive parking on sidewalks. These are sidewalks, not parking lots!
