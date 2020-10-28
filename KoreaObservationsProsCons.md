@@ -28,3 +28,5 @@ Here's some Pros and Cons from my time in South Korea. For the first month or so
 * Rooftops in the cities are mostly untapped resources. How can real estate be so expensive but some of the prime locations (top floors, roofs) be unused. You could build more rooftop bars + restaurants, install rooftop gardens, solar, ...
 * Horrible (not only digital) user interfaces. This can be so frustrating. From elevators over online banking to mobile interfaces. So many bad examples!
 * 1st class KTX has very limited charging per seat. If you need to work and charge while on the go, better take 2nd class (1 charger per 2 seats) or use extender.
+* A/C in hotels only allows heating in winter time, even 5-star hotels. Temperature in mid-20s can make sleeping close to impossible.
+* Regulation to show a doctor's certificate (no Covid-19 symptoms) to receive your visa which allows entry for up to 90 days. 
