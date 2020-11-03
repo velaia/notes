@@ -30,3 +30,4 @@ Here's some Pros and Cons from my time in South Korea. For the first month or so
 * 1st class KTX has very limited charging per seat. If you need to work and charge while on the go, better take 2nd class (1 charger per 2 seats) or use extender.
 * A/C in hotels only allows heating in winter time, even 5-star hotels. Temperature in mid-20s can make sleeping close to impossible.
 * Regulation to show a doctor's certificate (no Covid-19 symptoms) to receive your visa which allows entry for up to 90 days. 
+* Government seems to be very concerned about Covid-19 pandemic and quarantines incomming travelers but puts them in queues where social distancing is basically impossible. Epic fail! 
